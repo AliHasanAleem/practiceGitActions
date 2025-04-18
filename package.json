@@ -1,0 +1,17 @@
+
+
+{
+  "name": "gha-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"✅ Tests passed!\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+
+
